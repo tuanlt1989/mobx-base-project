@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+      },
+      "editor.fontFamily": "Menlo, Monaco, 'Courier New'",
+      "editor.codeLensFontFamily": "Consolas"
+}
