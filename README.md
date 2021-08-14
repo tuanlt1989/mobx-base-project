@@ -15,3 +15,6 @@
 - vales: contain constant, value all app
 - views: contain screen, devide folder by function in app(ex: login, profile, order ...)
 - component: contain component common use many times in app, don't add component just using in one screen.
+
+# Run source
+- npm install & react-native link
