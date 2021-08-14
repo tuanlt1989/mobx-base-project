@@ -10,6 +10,3 @@ Typescript is a modern age Javascript development language. It is a statically c
 - Javascript dynamic type varialbe => find bug when run (typescript)
 - OOP 
 - compile
-# mobx-base-project
-# mobx-base-project
-# mobx-base-project
